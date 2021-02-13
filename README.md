@@ -1,10 +1,6 @@
 # Rust-Classification
 Rust classification for oil/gas pipeline inspections and maintenance.
 
-VGG19 mode CNN was built to detect and classify rusted pipes.
-
--Achieved accuracy of 98% in prediction.
-
 -A low-cost robot was built to navigate pipes and make predictions.
 
 -An online server was also built to monitor multiple robots' behavior as well as see the predictions of each robot on the field.
